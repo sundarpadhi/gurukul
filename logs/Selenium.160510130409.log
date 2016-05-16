@@ -1,0 +1,3 @@
+10/05/2016 13:04:18 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - validUserLogin] INFO    - ===============valid user login started ============
+10/05/2016 13:04:33 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+10/05/2016 13:04:33 [com.test.gurukul.GkPagesTest.Configuration - tearDown] INFO    - Test Execution completed at1462865673324

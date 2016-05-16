@@ -1,0 +1,3 @@
+11/05/2016 14:32:10 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - registerFromAuth] INFO    - Click on New Registration Link
+11/05/2016 14:32:12 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+11/05/2016 14:32:12 [com.test.gurukul.GkPagesTest.Configuration - tearDown] INFO    - Test Execution completed at1462957332084

@@ -1,0 +1,12 @@
+10/05/2016 12:46:02 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - validUserLogin] INFO    - ===============valid user login started ============
+10/05/2016 12:46:13 [com.test.gurukul.pages.GkAuthenticationPage - gkHomePage] ERROR   - Unable to locate element: {"method":"id","selector":"password "}
+Command duration or timeout: 10.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'RPIPL2-DT-DV046', ip: '10.13.167.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f66b1167-9371-4d3b-9ba0-a150ca3d0e40
+*** Element info: {Using=id, value=password }
+10/05/2016 12:46:13 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+10/05/2016 12:46:13 [com.test.gurukul.GkPagesTest.Configuration - tearDown] INFO    - Test Execution completed at1462864573726

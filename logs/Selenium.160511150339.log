@@ -1,0 +1,33 @@
+11/05/2016 15:03:48 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - forgotPassword] INFO    - ===============Forgot password link test started ============
+11/05/2016 15:03:48 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - forgotPassword] INFO    - ===============Forgot password link test done============
+11/05/2016 15:03:57 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+11/05/2016 15:03:58 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login test done ============
+11/05/2016 15:04:05 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+11/05/2016 15:04:06 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login test done ============
+11/05/2016 15:04:14 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+11/05/2016 15:04:14 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login test done ============
+11/05/2016 15:04:21 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+11/05/2016 15:04:22 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login test done ============
+11/05/2016 15:04:29 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+11/05/2016 15:04:30 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login test done ============
+11/05/2016 15:04:37 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - registerFromAuthPage] INFO    - ===============New registration from Auth page started ============
+11/05/2016 15:04:47 [com.test.gurukul.pages.GkLoginPage - gkNewRegistrationPage] ERROR   - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'RPIPL2-DT-DV046', ip: '10.13.167.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 843b225c-45c7-4313-9f16-251431f1ecb8
+11/05/2016 15:04:54 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - validUserLogin] INFO    - ===============valid user login started ============
+11/05/2016 15:04:56 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - validUserLogin] INFO    - ===============user logged in with valid credentials ============
+11/05/2016 15:04:56 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+11/05/2016 15:05:03 [com.test.gurukul.GkPagesTest.GkLoginPageTest - registerNewAccount] INFO    - Click on New Registration Link
+11/05/2016 15:05:11 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkLogo] INFO    - GkLogo test starting
+11/05/2016 15:05:11 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkLogo] INFO    - ===========done logo testing============
+11/05/2016 15:05:18 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkWelcomeMessage] INFO    - Gk Welcome Message test starting
+11/05/2016 15:05:18 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkWelcomeMessage] INFO    - ===========done logo testing============
+11/05/2016 15:05:25 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testLoginLink] INFO    - Click on Login Link
+11/05/2016 15:05:26 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testLoginLink] INFO    - ===========user landed on Authentication Page============
+11/05/2016 15:05:26 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+11/05/2016 15:05:26 [com.test.gurukul.GkPagesTest.Configuration - tearDown] INFO    - Test Execution completed at1462959326531

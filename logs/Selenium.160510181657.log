@@ -1,0 +1,22 @@
+10/05/2016 18:17:05 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+10/05/2016 18:17:05 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login test done ============
+10/05/2016 18:17:11 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+10/05/2016 18:17:13 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login test done ============
+10/05/2016 18:17:20 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+10/05/2016 18:17:21 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login test done ============
+10/05/2016 18:17:27 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+10/05/2016 18:17:28 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login test done ============
+10/05/2016 18:17:35 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+10/05/2016 18:17:36 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login test done ============
+10/05/2016 18:17:43 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - validUserLogin] INFO    - ===============valid user login started ============
+10/05/2016 18:17:44 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - validUserLogin] INFO    - ===============user logged in with valid credentials ============
+10/05/2016 18:17:44 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+10/05/2016 18:17:51 [com.test.gurukul.GkPagesTest.GkLoginPageTest - registerNewAccount] INFO    - Click on New Registration Link
+10/05/2016 18:17:58 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkLogo] INFO    - GkLogo test starting
+10/05/2016 18:17:58 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkLogo] INFO    - ===========done logo testing============
+10/05/2016 18:18:04 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkWelcomeMessage] INFO    - Gk Welcome Message test starting
+10/05/2016 18:18:05 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkWelcomeMessage] INFO    - ===========done logo testing============
+10/05/2016 18:18:11 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testLoginLink] INFO    - Click on Login Link
+10/05/2016 18:18:11 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testLoginLink] INFO    - ===========user landed on Authentication Page============
+10/05/2016 18:18:11 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+10/05/2016 18:18:11 [com.test.gurukul.GkPagesTest.Configuration - tearDown] INFO    - Test Execution completed at1462884491981

@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 107.763 sec <<< FAILURE!
+registerFromAuthPage(com.test.gurukul.GkPagesTest.GkAuthenticationPageTest)  Time elapsed: 10.277 sec  <<< FAILURE!
+java.lang.AssertionError: Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'RPIPL2-DT-DV046', ip: '10.13.167.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 843b225c-45c7-4313-9f16-251431f1ecb8
+	at org.testng.Assert.fail(Assert.java:94)
+	at com.test.gurukul.pages.GkLoginPage.gkNewRegistrationPage(GkLoginPage.java:51)
+	at com.test.gurukul.GkPagesTest.GkAuthenticationPageTest.registerFromAuthPage(GkAuthenticationPageTest.java:47)
+

@@ -1,0 +1,32 @@
+09/05/2016 16:39:56 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkLogo] INFO    - GkLogo test starting
+09/05/2016 16:40:06 [com.test.gurukul.pages.GkBasePage - verifyLogo] ERROR   - Unable to locate element: {"method":"xpath","selector":"//span[@class='hipster img-responsive img-rounded']"}
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'RPIPL2-DT-DV046', ip: '10.13.167.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 75f4dc96-3820-45a7-85af-05ad154ae07a
+*** Element info: {Using=xpath, value=//span[@class='hipster img-responsive img-rounded']}
+09/05/2016 16:40:12 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkWelcomeMessage] INFO    - Gk Welcome Message test starting
+09/05/2016 16:40:22 [com.test.gurukul.pages.GkLoginPage - verifyWelcomeMessage] ERROR   - Unable to locate element: {"method":"xpath","selector":"//*[@class='navbar-brand']/img"}
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'RPIPL2-DT-DV046', ip: '10.13.167.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 78ce77ef-ee51-43ec-b5d1-5d43641848e7
+*** Element info: {Using=xpath, value=//*[@class='navbar-brand']/img}
+09/05/2016 16:40:27 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testLoginLink] INFO    - Click on Login Link
+09/05/2016 16:40:37 [com.test.gurukul.pages.GkLoginPage - gkAuthenticationPage] ERROR   - Unable to locate element: {"method":"xpath","selector":"//div[@class='alert alert-warning ng-scope']/a[contains(text(),'login')]"}
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'RPIPL2-DT-DV046', ip: '10.13.167.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 510ac4a8-c9ec-4681-8a62-c27a79aa65ba
+*** Element info: {Using=xpath, value=//div[@class='alert alert-warning ng-scope']/a[contains(text(),'login')]}
+09/05/2016 16:40:38 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+09/05/2016 16:40:38 [com.test.gurukul.GkPagesTest.Configuration - tearDown] INFO    - Test Execution completed at1462792238349

@@ -1,0 +1,14 @@
+09/05/2016 17:52:15 [com.test.gurukul.GkPagesTest.GkLoginPageTest - registerNewAccount] INFO    - Click on New Registration Link
+09/05/2016 17:52:15 [com.test.gurukul.pages.GkLoginPage - gkNewRegistrationPage] ERROR   - The given selector //div[@class='alert alert-warning ng-scope']/a[contains(text(),'Register a new account'] is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression //div[@class='alert alert-warning ng-scope']/a[contains(text(),'Register a new account'] because of the following error:
+SyntaxError: The expression is not a legal expression.
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'RPIPL2-DT-DV046', ip: '10.13.167.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1c4838ad-0e48-4c31-8e99-135631656996
+*** Element info: {Using=xpath, value=//div[@class='alert alert-warning ng-scope']/a[contains(text(),'Register a new account']}
+09/05/2016 17:52:16 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+09/05/2016 17:52:16 [com.test.gurukul.GkPagesTest.Configuration - tearDown] INFO    - Test Execution completed at1462796536053

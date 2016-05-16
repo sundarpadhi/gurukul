@@ -1,0 +1,13 @@
+09/05/2016 12:12:49 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkLogo] INFO    - GkLogo test starting
+09/05/2016 12:12:49 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkLogo] INFO    - ===========done logo testing============
+09/05/2016 12:12:56 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkWelcomeMessage] INFO    - Gk Welcome Message test starting
+09/05/2016 12:14:19 [com.test.gurukul.pages.GkLoginPage - verifyWelcomeMessage] ERROR   - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'RPIPL2-DT-DV046', ip: '10.13.167.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_75'
+Session ID: a7b4b58ce00fa36632e1888dbc8ab0e1
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\spadhi2\AppData\Local\Temp\scoped_dir10260_29646}, rotatable=false, locationContextEnabled=true, version=50.0.2661.94, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]

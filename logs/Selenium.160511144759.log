@@ -1,0 +1,4 @@
+11/05/2016 14:48:07 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - forgotPassword] INFO    - ===============Forgot password link test started ============
+11/05/2016 14:48:08 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - forgotPassword] INFO    - ===============Forgot password link test done============
+11/05/2016 14:48:08 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+11/05/2016 14:48:08 [com.test.gurukul.GkPagesTest.Configuration - tearDown] INFO    - Test Execution completed at1462958288969

@@ -1,0 +1,10 @@
+11/05/2016 14:31:14 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+11/05/2016 14:31:16 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login test done ============
+11/05/2016 14:31:27 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+11/05/2016 14:31:28 [com.test.gurukul.pages.GkAuthenticationPage - invalidLogins] ERROR   - a is undefined
+Command duration or timeout: 170 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'RPIPL2-DT-DV046', ip: '10.13.167.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5a9c0453-c6c1-4612-9453-a2d2a441f4f4

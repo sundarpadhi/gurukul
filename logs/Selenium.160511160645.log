@@ -1,0 +1,4 @@
+11/05/2016 16:06:53 [com.test.gurukul.GkPagesTest.GkLandingHomePageTest - branchEntityCheck] INFO    - =================Checking Branch Entity Started===============
+11/05/2016 16:06:54 [com.test.gurukul.GkPagesTest.GkLandingHomePageTest - branchEntityCheck] INFO    - ===========done logo testing============
+11/05/2016 16:06:54 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+11/05/2016 16:06:54 [com.test.gurukul.GkPagesTest.Configuration - tearDown] INFO    - Test Execution completed at1462963014947

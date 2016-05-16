@@ -1,0 +1,12 @@
+09/05/2016 16:25:21 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testLoginLink] INFO    - Click on Login Link
+09/05/2016 16:25:32 [com.test.gurukul.pages.GkLoginPage - authenticationHeaderMessage] ERROR   - Unable to locate element: {"method":"xpath","selector":"//div[@class='col-md-8']/h1"}
+Command duration or timeout: 10.19 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'RPIPL2-DT-DV046', ip: '10.13.167.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: df63cd91-f844-4bec-b9f9-0d52110b9642
+*** Element info: {Using=xpath, value=//div[@class='col-md-8']/h1}
+09/05/2016 16:25:32 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+09/05/2016 16:25:32 [com.test.gurukul.GkPagesTest.Configuration - tearDown] INFO    - Test Execution completed at1462791332622

@@ -1,0 +1,2 @@
+09/05/2016 14:15:30 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkWelcomeMessage] INFO    - Gk Welcome Message test starting
+09/05/2016 14:15:33 [com.test.gurukul.pages.GkLoginPage - verifyWelcomeMessage] ERROR   - 

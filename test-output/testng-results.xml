@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9823" started-at="2016-05-11T10:36:45Z" finished-at="2016-05-11T10:36:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9823" started-at="2016-05-11T10:36:45Z" finished-at="2016-05-11T10:36:54Z">
+      <class name="com.test.gurukul.GkPagesTest.GkLandingHomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.gurukul.GkPagesTest.GkLandingHomePageTest@62043840]" name="setUp" is-config="true" duration-ms="7254" started-at="2016-05-11T16:06:45Z" finished-at="2016-05-11T16:06:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="mySetup()[pri:0, instance:com.test.gurukul.GkPagesTest.GkLandingHomePageTest@62043840]" name="mySetup" is-config="true" duration-ms="1277" started-at="2016-05-11T16:06:52Z" finished-at="2016-05-11T16:06:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method status="PASS" signature="branchEntityCheck()[pri:0, instance:com.test.gurukul.GkPagesTest.GkLandingHomePageTest@62043840]" name="branchEntityCheck" duration-ms="588" started-at="2016-05-11T16:06:53Z" finished-at="2016-05-11T16:06:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- branchEntityCheck -->
+        <test-method status="PASS" signature="takeScreenShotOnFailure(org.testng.ITestResult)[pri:0, instance:com.test.gurukul.GkPagesTest.GkLandingHomePageTest@62043840]" name="takeScreenShotOnFailure" is-config="true" duration-ms="688" started-at="2016-05-11T16:06:54Z" finished-at="2016-05-11T16:06:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=branchEntityCheck status=SUCCESS method=GkLandingHomePageTest.branchEntityCheck()[pri:0, instance:com.test.gurukul.GkPagesTest.GkLandingHomePageTest@62043840] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShotOnFailure -->
+        <test-method status="PASS" signature="myTearDown()[pri:0, instance:com.test.gurukul.GkPagesTest.GkLandingHomePageTest@62043840]" name="myTearDown" is-config="true" duration-ms="1" started-at="2016-05-11T16:06:54Z" finished-at="2016-05-11T16:06:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.gurukul.GkPagesTest.GkLandingHomePageTest@62043840]" name="tearDown" is-config="true" duration-ms="0" started-at="2016-05-11T16:06:54Z" finished-at="2016-05-11T16:06:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.gurukul.GkPagesTest.GkLandingHomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

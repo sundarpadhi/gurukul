@@ -1,0 +1,10 @@
+com\test\gurukul\pages\GkForgotPasswordPage.class
+com\test\gurukul\pages\GkBasePage.class
+com\test\gurukul\pages\GkLoginPage.class
+com\test\gurukul\config\TestConfigurations.class
+com\test\gurukul\pages\GkAuthenticationPage.class
+com\test\gurukul\utils\ReadXL.class
+com\test\gurukul\pages\GkLandingHomePage.class
+com\test\gurukul\utils\ObjectMap.class
+com\test\gurukul\pages\GkNewRegistrationPage.class
+com\test\gurukul\utils\CustomFileAppender.class

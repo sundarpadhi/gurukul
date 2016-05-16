@@ -1,0 +1,6 @@
+06/05/2016 19:12:20 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkLogo] INFO    - GkLogo test starting
+06/05/2016 19:12:20 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkLogo] INFO    - ===========done logo testing============
+06/05/2016 19:12:27 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkWelcomeMessage] INFO    - Gk Welcome Message test starting
+06/05/2016 19:12:27 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkWelcomeMessage] INFO    - ===========done logo testing============
+06/05/2016 19:12:28 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+06/05/2016 19:12:28 [com.test.gurukul.GkPagesTest.Configuration - tearDown] INFO    - Test Execution completed at1462542148913

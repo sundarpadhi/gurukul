@@ -1,0 +1,9 @@
+10/05/2016 11:19:04 [com.test.gurukul.GkPagesTest.GkLoginPageTest - registerNewAccount] INFO    - Click on New Registration Link
+10/05/2016 11:19:13 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkLogo] INFO    - GkLogo test starting
+10/05/2016 11:19:13 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkLogo] INFO    - ===========done logo testing============
+10/05/2016 11:19:20 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkWelcomeMessage] INFO    - Gk Welcome Message test starting
+10/05/2016 11:19:21 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkWelcomeMessage] INFO    - ===========done logo testing============
+10/05/2016 11:19:27 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testLoginLink] INFO    - Click on Login Link
+10/05/2016 11:19:28 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testLoginLink] INFO    - ===========user landed on Authentication Page============
+10/05/2016 11:19:28 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+10/05/2016 11:19:28 [com.test.gurukul.GkPagesTest.Configuration - tearDown] INFO    - Test Execution completed at1462859368395

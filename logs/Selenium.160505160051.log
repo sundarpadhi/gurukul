@@ -1,0 +1,4 @@
+05/05/2016 16:01:00 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkLogo] INFO    - McLogo test starting
+05/05/2016 16:01:00 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkLogo] INFO    - ===========done logo testing============
+05/05/2016 16:01:01 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+05/05/2016 16:01:01 [com.test.gurukul.GkPagesTest.Configuration - tearDown] INFO    - Test Execution completed at1462444261879

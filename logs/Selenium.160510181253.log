@@ -1,0 +1,7 @@
+10/05/2016 18:13:00 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+10/05/2016 18:13:08 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+10/05/2016 18:13:16 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+10/05/2016 18:13:23 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+10/05/2016 18:13:31 [com.test.gurukul.GkPagesTest.GkAuthenticationPageTest - invalidCredential] INFO    - ===============invalid user login started ============
+10/05/2016 18:13:32 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+10/05/2016 18:13:32 [com.test.gurukul.GkPagesTest.Configuration - tearDown] INFO    - Test Execution completed at1462884212836

@@ -1,0 +1,3 @@
+09/05/2016 15:28:43 [com.test.gurukul.GkPagesTest.GkLoginPageTest - testGkWelcomeMessage] INFO    - Gk Welcome Message test starting
+09/05/2016 15:29:38 [com.test.gurukul.GkPagesTest.Configuration - myTearDown] INFO    - @AfterClass test done
+09/05/2016 15:29:38 [com.test.gurukul.GkPagesTest.Configuration - tearDown] INFO    - Test Execution completed at1462787978394

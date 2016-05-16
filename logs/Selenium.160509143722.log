@@ -1,0 +1,37 @@
+09/05/2016 14:38:15 [com.test.gurukul.GkPagesTest.GkLoginPageTest - setUp] ERROR   - Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+ns.json	DEBUG	Starting write
+1462784849265	addons.manager	DEBUG	shutdown
+1462784849265	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1462784849265	addons.xpi	DEBUG	shutdown
+1462784849265	addons.xpi-utils	DEBUG	shutdown
+1462784849265	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1462784849266	addons.manager	DEBUG	Calling shutdown blocker for OpenH264Provider
+1462784849267	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1462784849663	DeferredSave.extensions.json	DEBUG	Write succeeded
+1462784849663	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 16
+1462784849664	addons.xpi	DEBUG	Notifying XPI shutdown observers
+1462784849667	addons.manager	DEBUG	Async provider shutdown done
+1462784850258	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1462784850259	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1462784850261	addons.xpi	DEBUG	startup
+1462784850262	addons.xpi	INFO	Mapping fxdriver@googlecode.com to C:\Users\spadhi2\AppData\Local\Temp\anonymous4937972390296231126webdriver-profile\extensions\fxdriver@googlecode.com
+1462784850263	addons.xpi	DEBUG	Ignoring file entry whose name is not a valid add-on ID: C:\Users\spadhi2\AppData\Local\Temp\anonymous4937972390296231126webdriver-profile\extensions\webdriver-staging
+1462784850263	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}
+1462784850264	addons.xpi	DEBUG	Skipping unavailable install location app-system-share
+1462784850264	addons.xpi	DEBUG	Skipping unavailable install location app-system-local
+1462784850264	addons.xpi	INFO	Mapping {D19CA586-DD6C-4a0a-96F8-14644F340D60} to C:\Program Files (x86)\Common Files\McAfee\SystemCore
+1462784850264	addons.xpi	DEBUG	checkForChanges
+1462784850265	addons.xpi	DEBUG	Loaded add-on state from prefs: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\spadhi2\\AppData\\Local\\Temp\\anonymous4937972390296231126webdriver-profile\\extensions\\fxdriver@googlecode.com","e":false,"v":"2.42.2","st":1462784844975,"mt":1462784843947}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","e":true,"v":"35.0.1","st":1422619332745,"mt":1422619332576}},"winreg-app-global":{"{D19CA586-DD6C-4a0a-96F8-14644F340D60}":{"d":"C:\\Program Files (x86)\\Common Files\\McAfee\\SystemCore","e":false,"v":"15.1.0","st":1403117911645,"mt":1403117910841}}}
+1462784850266	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1462784850267	addons.xpi	DEBUG	getInstallState changed: false, state: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\spadhi2\\AppData\\Local\\Temp\\anonymous4937972390296231126webdriver-profile\\extensions\\fxdriver@googlecode.com","e":false,"v":"2.42.2","st":1462784844975,"mt":1462784843947}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","e":true,"v":"35.0.1","st":1422619332745,"mt":1422619332576}},"winreg-app-global":{"{D19CA586-DD6C-4a0a-96F8-14644F340D60}":{"d":"C:\\Program Files (x86)\\Common Files\\McAfee\\SystemCore","e":false,"v":"15.1.0","st":1403117911645,"mt":1403117910841}}}
+1462784850269	addons.xpi	DEBUG	No changes found
+1462784850272	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1462784850272	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1462784850273	addons.manager	DEBUG	Registering shutdown blocker for OpenH264Provider
+1462784850274	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+*** Blocklist::_preloadBlocklistFile: blocklist is disabled
+1462784852082	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'RPIPL2-DT-DV046', ip: '10.13.167.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
+Driver info: driver.version: FirefoxDriver
